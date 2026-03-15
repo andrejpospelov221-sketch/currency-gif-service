@@ -6,8 +6,8 @@ spring:
 
 oxr:
   url: "https://openexchangerates.org/api/"
-  app_id: "9dd5e0127b1d4aeca5511609c7b30b22"
+  app_id: "YOUR_OPENEXCHANGERATES_APP_ID_HERE"
   current_currency: "EUR" #Любая валюта
 giphy:
   url: "https://api.giphy.com/v1/gifs"
-  api_key: "1PqxFoSDf8qvb6z4i71TqXuaGKc0QBWy"
+  api_key: "YOUR_GIPHY_API_KEY_HERE"

@@ -28,7 +28,7 @@ public class GiphyResponse {
 
     @Getter
     @Setter
-    @JsonIgnoreProperties(ignoreUnknown = true) //чтобы сразу вернуть красивый gif в отдельном окне
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public static class Image {
         private String url;
 
